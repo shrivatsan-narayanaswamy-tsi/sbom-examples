@@ -24,7 +24,7 @@ There are currently two popular SBOM formats in use. SPDX and CycloneDX.
 ### Lifecycle of an SBOM
 
 While an SBOM is a static document, pinpointing what is in software when a
-scan was run, there are differet stages of development you can capture and
+scan was run, there are different stages of development you can capture and
 compare an SBOM. For example we could take a very simple view of breaking
 our development down into: source, build, and runtime. Each of these SBOMs
 will be different and contain different content. Each stage is important
